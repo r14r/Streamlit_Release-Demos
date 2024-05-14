@@ -1,6 +1,10 @@
 # Release Demo Apps ✨
 
-A central hub showcasing demo apps for new open-source feature releases!
+A Streamlit App showing the functionalities of all releases.
+
+Copy of the streamlit/release-demos (A central hub showcasing demo apps for new open-source feature releases!)
+
+![Demos](doc/screenshot.png)
 
 ## Links to demo apps
 
