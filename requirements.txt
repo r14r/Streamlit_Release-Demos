@@ -1,0 +1,47 @@
+# ./1.15.0/label-markdown/streamlit-1.14.1-py2.py3-none-any.whlpandas 
+# ./previews/mpa-v2/streamlit-1.33.0-py2.py3-none-any.whlstreamlit
+
+duckdb
+duckduckgo-search
+
+faker
+gcsfs
+
+st-files-connection
+
+imageio
+langchain
+openai
+
+pandas
+scipy
+
+numpy
+
+Pillow 
+
+plotly
+# plotly-express
+
+# s3fs
+snowflake
+# snowflake-snowpark-python
+# snowflake-snowpark-python[pandas]
+
+spacy
+spacytextblob
+
+# https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+# run python -m spacy download [model]
+
+sqlalchemy
+statsmodels
+
+streamlit
+streamlit-extras
+streamlit-nightly
+
+toml
+validators
+vega-datasets
+xarray
