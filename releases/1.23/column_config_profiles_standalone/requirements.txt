@@ -1,2 +1,0 @@
-streamlit==1.23
-faker==18.11.1

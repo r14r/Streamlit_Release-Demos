@@ -1,4 +1,0 @@
-streamlit==1.26
-langchain
-openai
-duckduckgo-search

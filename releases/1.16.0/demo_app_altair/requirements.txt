@@ -1,4 +1,0 @@
-streamlit
-vega_datasets
-streamlit-extras
-validators
